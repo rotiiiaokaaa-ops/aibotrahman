@@ -4,6 +4,6 @@
 </a>
 
 <p align="center">
-    AI RAHMAN is a free, open-source template built with Next.js and the AI SDK that helps you quickly build powerful chatbot applications.
+    Ai RAHMAN is an AI developed by Rahman who studied at SMP MUHAMMADIYAH LOA KULU
 </p>
 
